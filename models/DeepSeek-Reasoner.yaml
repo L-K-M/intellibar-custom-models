@@ -1,0 +1,5 @@
+url: https://api.deepseek.com/v1
+id: deepseek-reasoner
+name: DeepSeek Reasoner
+#https://platform.deepseek.com/api_keys
+apiKey: sk-...

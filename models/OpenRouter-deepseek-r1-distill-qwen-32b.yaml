@@ -1,0 +1,5 @@
+url: https://openrouter.ai/api/v1
+id: deepseek/deepseek-r1-distill-qwen-32b
+name: DeepSeek R1 32B
+#https://openrouter.ai/settings/keys
+apiKey: sk-o...
