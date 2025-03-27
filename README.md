@@ -1,5 +1,5 @@
 # intellibar-custom-models
-Custom models [for the Mac app IntelliBar](https://intellibar.app/), including support for Mistral and DeepSeek.
+Custom models [for the Mac app IntelliBar](https://intellibar.app/), including support for Mistral.
 
 # Usage
 
@@ -12,3 +12,5 @@ Edit the .yaml files and set your API keys. Get keys here:
 Copy the .yaml files in the models directory to ~/.intellibar/models/.
 
 Learn more about custom models on the [IntelliBar website](https://docs.intellibar.app/using-custom-models).
+
+Note that DeepSeek-Chat and DeepSeek-Reasoner are identical to the built-in models DeepSeek V3 and DeepSeek R1.
